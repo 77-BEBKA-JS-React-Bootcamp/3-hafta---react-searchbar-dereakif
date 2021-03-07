@@ -4,6 +4,7 @@
 
 - [General info](#general-info)
 - [Technologies](#technologies)
+- [Setup](#Setup)
 
 ## General info
 
@@ -12,3 +13,11 @@ Made a search bar and used Axios to GET data from an API. Search different stats
 ## Technologies
 
 React JS, Axios, SCSS
+
+## Setup
+
+To start project run;
+```
+npm install
+npm run start
+```
